@@ -54,12 +54,12 @@
 footer {
   bottom: 0; left: 0; right: 0;
   position: absolute;
-  background: brown;
+  background: lightgray;
   height: 10vh;
 }
 footer::before {
   content: '';
-  background: red;
+  background: lightgray;
   width: 200%;
   position: absolute;
   left: 50%; 
